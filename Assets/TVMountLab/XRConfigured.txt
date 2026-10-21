@@ -1,3 +1,0 @@
-OpenXR Standalone loader assigned=True
-Controller interaction profiles enabled=4
-Windows graphics: Direct3D11 (recovered from DX12 device failure).

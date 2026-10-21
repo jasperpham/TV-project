@@ -1,3 +1,0 @@
-PASS
-Desktop input exercise: 4/4 screws secured, TV mounted=True
-Headset tracking requires hardware verification.
