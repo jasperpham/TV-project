@@ -1,0 +1,8 @@
+Backup: C:\Users\thanh\VR\TV\TV project\SceneBackups\MountPractice.before-independent-hands.20261022-203451.unity
+LeftHand mesh: Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_L.fbx; bounds=(0.21, 0.10, 0.16)
+RightHand mesh: Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_R.fbx; bounds=(0.21, 0.10, 0.16)
+Configured the existing scene instances; preserved world poses and source prefabs.
+EDITOR PASS: independent pickup, simultaneous hold, exclusivity, either-hand swap, follow, renderer-only hiding, release restore, range.
+PLAY MODE PASS: independent pickup, simultaneous hold, exclusivity, either-hand swap, follow, renderer-only hiding, release restore, range, disable cleanup.
+EDITOR PASS: independent pickup, simultaneous hold, exclusivity, either-hand swap, follow, renderer-only hiding, release restore, range.
+PLAY MODE PASS: independent pickup, simultaneous hold, exclusivity, either-hand swap, follow, renderer-only hiding, release restore, range, disable cleanup.
